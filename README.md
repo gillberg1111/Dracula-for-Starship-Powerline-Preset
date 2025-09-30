@@ -1,20 +1,19 @@
 # Dracula for [Foobar](https://foobar.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Starship Powerline Preset](https://starship.rs/presets/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/](https://draculatheme.com/foobar).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/gillberg1111/Dracula-for-Starship-Powerline-Preset/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Jake Graves](https://github.com/gillberg1111.png?size=100)](https://github.com/gillberg1111)| | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Jake Graves](https://github.com/gillberg1111)                                               |
 
 ## Community
 

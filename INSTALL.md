@@ -1,12 +1,8 @@
-### [Foobar](https://foobar.com)
+### [Starship Powerline Preset](https://starship.rs/presets/)
 
-#### Install using Git
+This preset is heavily inspired by the Catppuccin Powerline and Pastel Powerline presets.
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
+This config also assumes you have a Nerd Font installed per the Starship installation guide.
 
 #### Install manually
 
@@ -14,6 +10,13 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/ar
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+To start with a new config:
+
+1. Make a backup of ~/.config/starship.toml
+
+```cp ~/.config/starship.toml ~/.config/starship.toml.bak2
+```
+
+2. Copy downloaded `starship.toml` to `~/.config/starship.toml`. Replace the file if it currently exists.
+
+If you are familiar enough with the Starship config, you can add this to an existing config. Be cautions that you understand the changes.

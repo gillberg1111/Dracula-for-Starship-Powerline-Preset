@@ -12,7 +12,7 @@ All instructions can be found at [draculatheme.com/](https://draculatheme.com/fo
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/gillberg1111/Dracula-for-Starship-Powerline-Preset/graphs/contributors).
 
-| [![Jake Graves](https://github.com/gillberg1111.png?size=100)](https://github.com/gillberg1111)| | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [![Jake Graves](https://github.com/gillberg1111.png?size=100)](https://github.com/gillberg1111)| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Jake Graves](https://github.com/gillberg1111)                                               |
 
 ## Community

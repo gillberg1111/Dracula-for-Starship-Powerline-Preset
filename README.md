@@ -1,4 +1,4 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Starship Powerline Preset](https://starship.rs/presets/)
 
 > A dark theme for [Starship Powerline Preset](https://starship.rs/presets/).
 
